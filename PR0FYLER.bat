@@ -2,7 +2,7 @@
 setlocal EnableExtensions DisableDelayedExpansion
 
 :: Define título da janela para ficar mais profissional
-title Exportador Automático para GeneMapper 
+title Exportador Automatico para GeneMapper 
 
 echo ============================================
 echo            P R 0 F Y L E R - 1.02
