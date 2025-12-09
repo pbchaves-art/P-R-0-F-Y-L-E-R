@@ -76,8 +76,14 @@ Paulo B. Chaves
 Laboratório de Biologia e DNA Forense  
 Polícia Científica de Goiás, Brazil (PCI/GO)  
 
+
 ---
 
 ## Purpose
 PR0FYLER supports a faster, more reliable, and user-friendly method for exporting electropherograms, reducing repetitive manual tasks and minimizing errors in forensic DNA analysis workflows.
 
+---
+
+  ## Version history
+- 1.01: Initial release. 
+- 1.02: Updated the command prompt title.
