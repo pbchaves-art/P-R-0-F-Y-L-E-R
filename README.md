@@ -34,7 +34,8 @@ The tool requests:
 ### 2. Automatic Search for GeneMapper
 The tool searches for the GeneMapper executable using:
 - A fast scan of common installation directories  
-- A deeper scan of all connected drives (excluding C:)  
+- A deeper scan of all connected drives (excluding C:)
+- The executable must be named GeneMapper.exe
 
 If the executable cannot be found automatically, the user may provide the installation path manually.
 
