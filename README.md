@@ -21,7 +21,7 @@ This beta version has been tested on GeneMapper ID-X 1.6 (both Client and Full i
 ---
 
 ## Quick guide
-- Download PR0FYELE.bat  
+- Download PR0FYELER.bat  
 - Open and run it
 - Enter your GeneMapper credentials (username and password)
 - Enter the GeneMapper project ID that contains the profiles to be exported to PDF 
