@@ -20,6 +20,9 @@ PR0FYLER is an automated tool designed to streamline the export of electropherog
 
 ## Workflow Summary
 
+- Before you begin, download the PR0FYLER.bat file and double-click it to execute
+
+
 ### 1. User Input
 The tool requests:
 - Username  
