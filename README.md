@@ -23,7 +23,7 @@ PR0FYLER is an automated tool designed to streamline the export of electropherog
 ### 1. User Input
 The tool requests:
 - Username  
-- Password (secure, not displayed)  
+- Password
 - Project name  
 
 ### 2. Automatic Search for GeneMapper
