@@ -3,7 +3,7 @@ TROUBLESHOOTING
 
 Open GeneMapper and make sure the Default Databse Host is set to the Database that contains the projects to be saved. 
 
-a) In the drop down Database Host menu, select the correct database. 
+a) In the drop-down Database Host menu, select the correct database. 
 b) Press the Default Host button.
 c) Close GeneMapper.
 d) Done! The next time GeneMapper is open, the selected database will be used automatically.
