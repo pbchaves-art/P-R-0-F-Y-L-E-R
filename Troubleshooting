@@ -1,7 +1,7 @@
 TROUBLESHOOTING
 1 - PDF files not in the Desktop folder: make sure the Default Database is set correctly on GeneMapper before running PR0FYLER.
 
-Before running PR0FYLER, open GeneMapper and make sure the Default Databse Host is set to the Database that contains the projects to be saved. 
+Open GeneMapper and make sure the Default Databse Host is set to the Database that contains the projects to be saved. 
 
 a) In the drop down Database Host menu, select the correct database. 
 b) Press the Default Host button.
